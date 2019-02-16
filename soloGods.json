@@ -309,7 +309,7 @@
 "id":null,
 "name":"TEST"
 },
-"godName":"Neith",
+"godName":"King Arthur",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Uncommon Staff",
 "starterThree":"Healing Pot X2",
@@ -328,7 +328,7 @@
 "id":null,
 "name":"TEST"
 },
-"godName":"Nox",
+"godName":"Loki",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -347,7 +347,7 @@
 "id":null,
 "name":"TEST"
 },
-"godName":"Nu Wa",
+"godName":"Nike",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -366,7 +366,7 @@
 "id":null,
 "name":"TEST"
 },
-"godName":"Poseidon",
+"godName":"Odin",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -385,7 +385,7 @@
 "id":null,
 "name":"TEST"
 },
-"godName":"Ra",
+"godName":"Osiris",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -404,7 +404,7 @@
 "id":null,
 "name":"TEST"
 },
-"godName":"Raijin",
+"godName":"Ravana",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -423,7 +423,7 @@
 "id":null,
 "name":"TEST"
 },
-"godName":"Scylla",
+"godName":"Sobek",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -442,7 +442,7 @@
 "id":null,
 "name":"TEST"
 },
-"godName":"Sol",
+"godName":"Sun Wukong",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -480,7 +480,7 @@
 "id":null,
 "name":"TEST"
 },
-"godName":"Thoth",
+"godName":"Tyr",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -499,7 +499,7 @@
 "id":null,
 "name":"TEST"
 },
-"godName":"Ullr",
+"godName":"Vamana",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -518,26 +518,7 @@
 "id":null,
 "name":"TEST"
 },
-"godName":"Vulcan",
-"starterOne":"Hunter's Blessing",
-"starterTwo":"Spiked Gauntlet",
-"starterThree":"Healing Pot X2",
-"starterFour":"Man Pot X2",
-"itemOne":"Ninja Tabi",
-"itemTwo":"Devourer's Gauntlet",
-"itemThree":"The Executioner",
-"itemFour":"Deathbringer",
-"itemFive":"Poisoned Star",
-"itemSix":"Wind Demon",
-"description":"When starting in the hunter role, you'll generally start in your duo lane with your support.  If you win lane early, you can look to invade the enemy's purple or red buffs.  If you're winning lane after the second wave, you'll be able to hit level two after killing just the two small creeps in the enemy purple camp.  You can use this to your advantage if you invade purple and the enemy team moves into the jungle to contest, as they will still be level one.  Be mindful of this if you find yourself being pushed under your own tower, as the enemy team will have this same advantage.",
-"youTubeUrl":"Url",
-},
-{
-"source":{
-"id":null,
-"name":"TEST"
-},
-"godName":"Zeus",
+"godName":"Xing Tian",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -568,25 +549,6 @@
 "itemFive":"Poisoned Star",
 "itemSix":"Wind Demon",
 "description":"When starting in the hunter role, you'll generally start in your duo lane with your support.  If you win lane early, you can look to invade the enemy's purple or red buffs.  If you're winning lane after the second wave, you'll be able to hit level two after killing just the two small creeps in the enemy purple camp.  You can use this to your advantage if you invade purple and the enemy team moves into the jungle to contest, as they will still be level one.  Be mindful of this if you find yourself being pushed under your own tower, as the enemy team will have this same advantage.",
-"youTubeUrl":"Url",
-},
-{
-"source":{
-"id":null,
-"name":"TEST"
-},
-"godName":"NAME",
-"starterOne":"itemName",
-"starterTwo":"itemName",
-"starterThree":"itemName",
-"starterFour":"itemName",
-"itemOne":"itemName",
-"itemTwo":"itemName",
-"itemThree":"itemName",
-"itemFour":"itemName",
-"itemFive":"itemName",
-"itemSix":"itemName",
-"description":"itemName",
 "youTubeUrl":"Url",
 }
 ]
