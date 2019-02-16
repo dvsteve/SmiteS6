@@ -309,25 +309,6 @@
 "id":null,
 "name":"TEST"
 },
-"godName":"Kuzenbo",
-"starterOne":"Guardian's Blessing",
-"starterTwo":"Glowing Emerald",
-"starterThree":"Healing Pot X2",
-"starterFour":"Multi Pot X2",
-"itemOne":"Travelers Shoes",
-"itemTwo":"Gauntlet of Thebes",
-"itemThree":"Spirit Robe",
-"itemFour":"Sovereignty",
-"itemFive":"Void Stone",
-"itemSix":"Mantle of Discord",
-"description":"You can choose an optional start by building Guardian's Blessing, a Health Chalice, and spending your remaining 500 gold on upgraded Heavenly Wings.  Having this relic at level one will provide increased aggression for strong clearing lanes while also providing defensive utility as needed.",
-"youTubeUrl":"Url",
-},
-{
-"source":{
-"id":null,
-"name":"TEST"
-},
 "godName":"Odin",
 "starterOne":"Guardian's Blessing",
 "starterTwo":"Glowing Emerald",
@@ -454,25 +435,6 @@
 "itemFive":"Void Stone",
 "itemSix":"Mantle of Discord",
 "description":"You can choose an optional start by building Guardian's Blessing, a Health Chalice, and spending your remaining 500 gold on upgraded Heavenly Wings.  Having this relic at level one will provide increased aggression for strong clearing lanes while also providing defensive utility as needed.",
-"youTubeUrl":"Url",
-},
-{
-"source":{
-"id":null,
-"name":"TEST"
-},
-"godName":"NAME",
-"starterOne":"itemName",
-"starterTwo":"itemName",
-"starterThree":"itemName",
-"starterFour":"itemName",
-"itemOne":"itemName",
-"itemTwo":"itemName",
-"itemThree":"itemName",
-"itemFour":"itemName",
-"itemFive":"itemName",
-"itemSix":"itemName",
-"description":"itemName",
 "youTubeUrl":"Url",
 }
 ]
