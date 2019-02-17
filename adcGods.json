@@ -6,6 +6,7 @@
 "name":"TEST"
 },
 "godName":"Ah Muzen Cab",
+"godRole":"ADC",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -25,6 +26,7 @@
 "name":"TEST"
 },
 "godName":"Anhur",
+"godRole":"ADC",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -44,6 +46,7 @@
 "name":"TEST"
 },
 "godName":"Apollo",
+"godRole":"ADC",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -63,6 +66,7 @@
 "name":"TEST"
 },
 "godName":"Artemis",
+"godRole":"ADC",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -82,6 +86,7 @@
 "name":"TEST"
 },
 "godName":"Cernunnos",
+"godRole":"ADC",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -101,6 +106,7 @@
 "name":"TEST"
 },
 "godName":"Chernobog",
+"godRole":"ADC",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -120,6 +126,7 @@
 "name":"TEST"
 },
 "godName":"Chiron",
+"godRole":"ADC",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -139,6 +146,7 @@
 "name":"TEST"
 },
 "godName":"Cupid",
+"godRole":"ADC",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -158,6 +166,7 @@
 "name":"TEST"
 },
 "godName":"Hachiman",
+"godRole":"ADC",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -177,6 +186,7 @@
 "name":"TEST"
 },
 "godName":"Hou Yi",
+"godRole":"ADC",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -196,6 +206,7 @@
 "name":"TEST"
 },
 "godName":"Izanami",
+"godRole":"ADC",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -215,6 +226,7 @@
 "name":"TEST"
 },
 "godName":"Jing Wei",
+"godRole":"ADC",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -234,6 +246,7 @@
 "name":"TEST"
 },
 "godName":"Medusa",
+"godRole":"ADC",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -253,6 +266,7 @@
 "name":"TEST"
 },
 "godName":"Neith",
+"godRole":"ADC",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -272,6 +286,7 @@
 "name":"TEST"
 },
 "godName":"Rama",
+"godRole":"ADC",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -291,6 +306,7 @@
 "name":"TEST"
 },
 "godName":"Skadi",
+"godRole":"ADC",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -310,6 +326,7 @@
 "name":"TEST"
 },
 "godName":"Sol",
+"godRole":"ADC",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Uncommon Staff",
 "starterThree":"Healing Pot X2",
@@ -329,6 +346,7 @@
 "name":"TEST"
 },
 "godName":"Ullr",
+"godRole":"ADC",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
