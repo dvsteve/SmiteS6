@@ -6,6 +6,7 @@
 "name":"TEST"
 },
 "godName":"Achilles",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -25,6 +26,7 @@
 "name":"TEST"
 },
 "godName":"Amaterasu",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -44,6 +46,7 @@
 "name":"TEST"
 },
 "godName":"Aphrodite",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -63,6 +66,7 @@
 "name":"TEST"
 },
 "godName":"Artio",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -82,6 +86,7 @@
 "name":"TEST"
 },
 "godName":"Baron Samedi",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -101,6 +106,7 @@
 "name":"TEST"
 },
 "godName":"Bellona",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -120,6 +126,7 @@
 "name":"TEST"
 },
 "godName":"Cabrakan",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -139,6 +146,7 @@
 "name":"TEST"
 },
 "godName":"Camazotz",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -158,6 +166,7 @@
 "name":"TEST"
 },
 "godName":"Cerberus",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -177,6 +186,7 @@
 "name":"TEST"
 },
 "godName":"Chaac",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -196,6 +206,7 @@
 "name":"TEST"
 },
 "godName":"Chang'e",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -215,6 +226,7 @@
 "name":"TEST"
 },
 "godName":"Cu Chulainn",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -234,6 +246,7 @@
 "name":"TEST"
 },
 "godName":"Erlang Shen",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -253,6 +266,7 @@
 "name":"TEST"
 },
 "godName":"Fenrir",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -272,6 +286,7 @@
 "name":"TEST"
 },
 "godName":"Guan Yu",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -291,6 +306,7 @@
 "name":"TEST"
 },
 "godName":"Hercules",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -310,6 +326,7 @@
 "name":"TEST"
 },
 "godName":"King Arthur",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Uncommon Staff",
 "starterThree":"Healing Pot X2",
@@ -329,6 +346,7 @@
 "name":"TEST"
 },
 "godName":"Loki",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -348,6 +366,7 @@
 "name":"TEST"
 },
 "godName":"Nike",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -367,6 +386,7 @@
 "name":"TEST"
 },
 "godName":"Odin",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -386,6 +406,7 @@
 "name":"TEST"
 },
 "godName":"Osiris",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -405,6 +426,7 @@
 "name":"TEST"
 },
 "godName":"Ravana",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -424,6 +446,7 @@
 "name":"TEST"
 },
 "godName":"Sobek",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -443,6 +466,7 @@
 "name":"TEST"
 },
 "godName":"Sun Wukong",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -462,6 +486,7 @@
 "name":"TEST"
 },
 "godName":"The Morrigan",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -481,6 +506,7 @@
 "name":"TEST"
 },
 "godName":"Tyr",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -500,6 +526,7 @@
 "name":"TEST"
 },
 "godName":"Vamana",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -519,6 +546,7 @@
 "name":"TEST"
 },
 "godName":"Xing Tian",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -538,6 +566,7 @@
 "name":"TEST"
 },
 "godName":"Zhong Kui",
+"godRole":"Solo Lane",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
