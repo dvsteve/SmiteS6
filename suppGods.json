@@ -265,6 +265,26 @@
 "id":null,
 "name":"TEST"
 },
+"godName":"Jormungandr",
+"godRole":"Support",
+"starterOne":"Guardian's Blessing",
+"starterTwo":"Uncommon Staff",
+"starterThree":"Healing Pot X2",
+"starterFour":"Mana Pot X2",
+"itemOne":"Shoes of Focus",
+"itemTwo":"Warlock's Staff",
+"itemThree":"Lotus Crown",
+"itemFour":"Genji's Guard",
+"itemFive":"Rod of Asclepius",
+"itemSix":"Mantle of Discord",
+"description":"You can choose an optional start by building Guardian's Blessing, a Health Chalice, and spending your remaining 500 gold on upgraded Heavenly Wings.  Having this relic at level one will provide increased aggression for strong clearing lanes while also providing defensive utility as needed.",
+"youTubeUrl":"Url",
+},
+{
+"source":{
+"id":null,
+"name":"TEST"
+},
 "godName":"Khepri",
 "godRole":"Support",
 "starterOne":"Guardian's Blessing",
