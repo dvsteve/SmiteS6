@@ -67,7 +67,7 @@
 },
 "godName":"Artio",
 "godRole":"Solo Lane",
-"starterOne":"Guardian's Blessing",
+"starterOne":"Warrior's Blessing",
 "starterTwo":"Chalice of Healing",
 "starterThree":"Healing Pot X2",
 "starterFour":"",
@@ -127,7 +127,7 @@
 },
 "godName":"Cabrakan",
 "godRole":"Solo Lane",
-"starterOne":"Guardian's Blessing",
+"starterOne":"Warrior's Blessing",
 "starterTwo":"Shoes",
 "starterThree":"Chalice of Healing",
 "starterFour":"",
@@ -167,7 +167,7 @@
 },
 "godName":"Cerberus",
 "godRole":"Solo Lane",
-"starterOne":"Guardian's Blessing",
+"starterOne":"Warrior's Blessing",
 "starterTwo":"Shoes",
 "starterThree":"Chalice of Healing",
 "starterFour":"",
@@ -499,26 +499,6 @@
 "itemSix":"Spirit Robe",
 "description":"Recent nerfs to Warrior's Blessing have helped to bring about an influx of mages and guardians to the solo lane.  If you find yourself laning against a magical opponent, choosing to build a magical defense item like Runic Shield or Genji's Guard, before going into physical resistance, may be preferable to standard builds.",
 "youTubeUrl":"https://youtu.be/veCgJ8dvcQU"
-},
-{
-"source":{
-"id":null,
-"name":"TEST"
-},
-"godName":"The Morrigan",
-"godRole":"Solo Lane",
-"starterOne":"Warrior's Blessing",
-"starterTwo":"Uncommon Staff",
-"starterThree":"Healing Pot X",
-"starterFour":"Mana Pot",
-"itemOne":"Shoes of Focus",
-"itemTwo":"Warlock's Staff",
-"itemThree":"Breastplate of Valor",
-"itemFour":"Void Stone",
-"itemFive":"Pythagorem's Piece",
-"itemSix":"Polynomicon",
-"description":"Recent nerfs to Warrior's Blessing have helped to bring about an influx of mages and guardians to the solo lane.  If you find yourself laning against a magical opponent, choosing to build a magical defense item like Runic Shield or Genji's Guard, before going into physical resistance, may be preferable to standard builds.",
-"youTubeUrl":"https://youtu.be/ymIXYg1zv24"
 },
 {
 "source":{
