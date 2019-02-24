@@ -6,7 +6,7 @@
 "name":"TEST"
 },
 "godName":"Ah Muzen Cab",
-"godRole":"ADC",
+"godRole":"Hunter",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -26,7 +26,7 @@
 "name":"TEST"
 },
 "godName":"Anhur",
-"godRole":"ADC",
+"godRole":"Hunter",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Morningstar",
 "starterThree":"Healing Pot X3",
@@ -46,7 +46,7 @@
 "name":"TEST"
 },
 "godName":"Apollo",
-"godRole":"ADC",
+"godRole":"Hunter",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -66,7 +66,7 @@
 "name":"TEST"
 },
 "godName":"Artemis",
-"godRole":"ADC",
+"godRole":"Hunter",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -86,7 +86,7 @@
 "name":"TEST"
 },
 "godName":"Cernunnos",
-"godRole":"ADC",
+"godRole":"Hunter",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Morningstar",
 "starterThree":"Healing Pot X3",
@@ -106,7 +106,7 @@
 "name":"TEST"
 },
 "godName":"Chernobog",
-"godRole":"ADC",
+"godRole":"Hunter",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -126,7 +126,7 @@
 "name":"TEST"
 },
 "godName":"Chiron",
-"godRole":"ADC",
+"godRole":"Hunter",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -146,7 +146,7 @@
 "name":"TEST"
 },
 "godName":"Chronos",
-"godRole":"ADC",
+"godRole":"Hunter",
 "starterOne":"Mage's Blessing",
 "starterTwo":"Uncommon Staff",
 "starterThree":"Healing Pot X2",
@@ -166,7 +166,7 @@
 "name":"TEST"
 },
 "godName":"Cupid",
-"godRole":"ADC",
+"godRole":"Hunter",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -186,7 +186,7 @@
 "name":"TEST"
 },
 "godName":"Freya",
-"godRole":"ADC",
+"godRole":"Hunter",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Imperial Helmet",
 "starterThree":"Healing Pot X2",
@@ -206,7 +206,7 @@
 "name":"TEST"
 },
 "godName":"Hachiman",
-"godRole":"ADC",
+"godRole":"Hunter",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -226,7 +226,7 @@
 "name":"TEST"
 },
 "godName":"Hou Yi",
-"godRole":"ADC",
+"godRole":"Hunter",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -246,7 +246,7 @@
 "name":"TEST"
 },
 "godName":"Izanami",
-"godRole":"ADC",
+"godRole":"Hunter",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Morningstar",
 "starterThree":"Healing Pot X2",
@@ -266,7 +266,7 @@
 "name":"TEST"
 },
 "godName":"Jing Wei",
-"godRole":"ADC",
+"godRole":"Hunter",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -286,7 +286,7 @@
 "name":"TEST"
 },
 "godName":"Medusa",
-"godRole":"ADC",
+"godRole":"Hunter",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -306,7 +306,7 @@
 "name":"TEST"
 },
 "godName":"Neith",
-"godRole":"ADC",
+"godRole":"Hunter",
 "starterOne":"Mage's Blessing",
 "starterTwo":"Morningstar",
 "starterThree":"Healing Pot X2",
@@ -326,7 +326,7 @@
 "name":"TEST"
 },
 "godName":"Rama",
-"godRole":"ADC",
+"godRole":"Hunter",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -346,7 +346,7 @@
 "name":"TEST"
 },
 "godName":"Skadi",
-"godRole":"ADC",
+"godRole":"Hunter",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Morningstar",
 "starterThree":"Healing Pot X2",
@@ -366,7 +366,7 @@
 "name":"TEST"
 },
 "godName":"Sol",
-"godRole":"ADC",
+"godRole":"Hunter",
 "starterOne":"Mage's Blessing",
 "starterTwo":"Tiny Trinket",
 "starterThree":"Healing Pot X2",
@@ -386,7 +386,7 @@
 "name":"TEST"
 },
 "godName":"Ullr",
-"godRole":"ADC",
+"godRole":"Hunter",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
@@ -406,7 +406,7 @@
 "name":"TEST"
 },
 "godName":"Xbalanque",
-"godRole":"ADC",
+"godRole":"Hunter",
 "starterOne":"Hunter's Blessing",
 "starterTwo":"Spiked Gauntlet",
 "starterThree":"Healing Pot X2",
